@@ -1,0 +1,11 @@
+﻿	Před začátkem hry se hráči dohodnou na velikosti čtverce, způsobu značení jeho polí a počtu a tvaru lodí, 
+které do plánku budou zakreslovat (pokud nemají připravený tiskopis). Cílem hry je nalézt a potopit všechny 
+lodě soupeře jako první. 
+	Hráč zakreslí svoje lodě (nesmí se dotýkat stranou, ale lze je i otočit). Protivník učiní totéž do své 
+mřížky (pokud ji nemá, musí si ji nakreslit, nejlépe na čtverečkovaný papír). Začínající hráč ohlásí zvolený 
+čtverec, kam namířil. Protivník odpoví “voda”, pokud ve své mřížce na této pozici nemá žádnou loď. V opačném 
+případě hlásí “zásah”. Hráč si může tečkou označovat do zmenšené mřížky radaru místa, kam již mířil, aby si 
+udržel přehled. Zásahy lze označovat křížkem. Pokud je zasažen poslední čtvereček lodě, je plavidlo potopeno 
+a hráč musí kromě zásahu ohlásit protivníkovi také název lodi a skutečnost, že se celá potopila. Protivníkovo 
+míření se zakresluje do velké mřížky s vlastními loděmi a jejich zásahy se značí přeškrtnutím políčka. Hráči 
+se střídají, dokud jeden z nich nemá potopené všechny lodě.
